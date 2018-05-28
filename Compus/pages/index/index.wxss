@@ -1,0 +1,9 @@
+/**index.wxss**/
+.usermotto {
+  margin-top: 10px;
+}
+
+.angle_text {
+  color: blue;
+  font-size:25mm
+}
